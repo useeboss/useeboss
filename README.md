@@ -1,41 +1,136 @@
-<h1>Hi, I'm Usman! <br/><a href="https://github.com/useeboss">Programmer</a>, <a href="https://www.linkedin.com/in/yahayausman/">Agile Project Manager</a>, <a href="https://www.youtube.com/c/yahayausman">YouTuber</a></h1>
+<div align="center">
 
-<h2>👨‍💻 Software Development Projects:</h2>
+  <h1>Hi, I’m Usman Yahaya, PhD 👋</h1>
+  <p>
+    <b>ALX Software Engineering Learner</b> · Backend & Frontend Enthusiast · Problem Solver<br/>
+    I’m passionate about <b>solving real-world problems</b> with technology—especially in <b>Agriculture</b>, <b>Finance</b>, <b>Education</b>, and <b>Estate Development</b>.
+  </p>
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-    
-<h2> Certifications </h2>
-Agile Google Project Management
+  <!-- Badges -->
+  <p>
+    <img alt="ALX" src="https://img.shields.io/badge/ALX-Software%20Engineering-red" />
+    <img alt="Focus" src="https://img.shields.io/badge/Focus-Learner%20%26%20Builder-blue" />
+    <img alt="Open to work" src="https://img.shields.io/badge/Open%20to-Internships%20%7C%20Collaboration-success" />
+  </p>
 
-<h2>📺 Popular YouTube Videos</h2>
+  <p>
+    <a href="mailto:yahayausman5@gmail.com"><b>📫 Email</b></a> ·
+    <a href="https://www.linkedin.com/in/usman-yahaya-ph-d-111994ab/"><b>🔗 LinkedIn</b></a>
+  </p>
 
-- [Strategies for building innovative culture](https://www.youtube.com/watch?v=H3k4Mnydutg)
+  <hr />
+</div>
 
+## 👨‍💻 About Me
 
-<h2> 🤳 Connect with me:</h2>
+I’m currently building my skills through the **ALX Software Engineering program**, having completed **ALX Professional Foundations** and **Basics of Coding**.  
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+I enjoy breaking down complex problems into simple solutions and I’m currently focusing on developing projects that will prepare me for real-world software engineering challenges.  
 
-[twitter]: https://twitter.com/@useeboss
-[youtube]: https://www.youtube.com/@InnovationSimplified
-[instagram]: https://www.instagram.com/useeboss
-[linkedin]: https://www.linkedin.com/in/usman-yahaya-ph-d-111994ab/
+- 🌱 **Learning:** Python, Web Development (HTML, CSS, JavaScript), Git & GitHub, Databases, and Cloud basics  
+- 🛠️ **Working on:**  
+  - 🚗 **Carwash Booking System** – a scheduling and service management platform  
+  - 🛒 **Marketplace (like Jumia)** – an e-commerce app for customers to browse & purchase products  
+- 🎯 **Goal:** To contribute to impactful software in Agriculture, Finance, Education & Estate Development  
+- 🤝 **Open to:** Internships, junior developer roles, collaborations, and mentorship  
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools (Growing Stack)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB" alt="Python" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717" alt="GitHub" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Linux-FCC624" alt="Linux" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-336791" alt="SQL" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/Docker-2496ED" alt="Docker" />
+      <img src="https://img.shields.io/badge/Cloud-47A248" alt="Cloud" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📂 Featured Projects (In Progress)
+
+### 🚗 Carwash Booking System  
+A scheduling system for customers to book carwash services online.  
+**Tech stack:** Python · HTML · CSS · GitHub  
+
+👉 [Repository Placeholder](https://github.com/useeboss/carwash-booking-system)
+
+---
+
+### 🛒 Marketplace (Like Jumia)  
+A simple e-commerce platform where customers can browse and purchase items.  
+**Tech stack:** Python · HTML · CSS · JavaScript  
+
+👉 [Repository Placeholder](https://github.com/useeboss/marketplace)
+
+---
+
+## 📖 Learning Roadmap
+
+<details>
+  <summary><b>Near-Term (0–3 months)</b></summary>
+  <ul>
+    <li>Strengthen backend skills in Python (Flask/Django)</li>
+    <li>Develop fully functional CRUD apps</li>
+    <li>Improve Git & GitHub workflows</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Mid-Term (3–6 months)</b></summary>
+  <ul>
+    <li>Deploy projects to cloud platforms (Heroku, Railway, AWS basics)</li>
+    <li>Learn SQL databases (PostgreSQL, MySQL)</li>
+    <li>Practice testing & documentation for all projects</li>
+  </ul>
+</details>
+
+---
+
+## 🎓 Education & Certifications
+
+- **PhD – [Your Field]** – [Your University]  
+- **ALX Professional Foundations** – Completed  
+- **ALX Basics of Coding** – Completed  
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=useeboss&show_icons=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=useeboss&layout=compact" alt="Top Languages"/>
+</p>
+
+<p>
+  <img height="165" src="https://streak-stats.demolab.com?user=useeboss" alt="GitHub Streak"/>
+</p>
+
+---
+
+<div align="center">
+  <i>“Thanks for visiting! I’m always open to learning, collaborating, and solving meaningful problems with technology.”</i>
+</div>
