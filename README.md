@@ -112,7 +112,7 @@ A simple e-commerce platform where customers can browse and purchase items.
 
 ## 🎓 Education & Certifications
 
-- **PhD – [Your Field]** – [Your University]  
+- **PhD – Business Administration** – Kaduna State University Nigeria  
 - **ALX Professional Foundations** – Completed  
 - **ALX Basics of Coding** – Completed  
 
